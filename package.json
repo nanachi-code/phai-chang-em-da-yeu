@@ -1,0 +1,19 @@
+{
+	"name": "phai-chang-em-da-yeu",
+	"version": "0.1.0",
+	"scripts": {
+		"build": "node index"
+	},
+	"type": "module",
+	"dependencies": {
+		"@osbjs/math": "^2.1.0",
+		"@osbjs/osbjs": "^1.12.1",
+		"@osbjs/osujs": "^2.1.1",
+		"@osbjs/txtgen": "^1.1.1",
+		"image-size": "^1.0.0"
+	},
+	"devDependencies": {
+		"eslint": "^8.4.1",
+		"nodemon": "^2.0.15"
+	}
+}
